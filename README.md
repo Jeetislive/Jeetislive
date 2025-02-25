@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I'm a **Backend Developer** passionate about build
 ---
 
 ### 🚀 GitHub Stats & Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=Jeetislive&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeetislive&layout=compact&theme=radical)
 
 ---
